@@ -1,0 +1,16 @@
+# Never push secrets or cache
+.env
+__pycache__/
+*.pyc
+.qodo/
+data/
+outputs/*.pt
+.idea/
+.venv/
+env/
+venv/
+offline_cache/
+# System / editor
+.DS_Store
+.idea/
+.vscode/

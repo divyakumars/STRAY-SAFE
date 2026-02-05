@@ -1,0 +1,8 @@
+{
+  "Dermatitis": 0,
+  "Fungal_infections": 1,
+  "Healthy": 2,
+  "Hypersensitivity": 3,
+  "demodicosis": 4,
+  "ringworm": 5
+}
